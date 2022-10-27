@@ -10,9 +10,10 @@ Created by Tim Machnacki (tmachnac)
 ## Code
 code (scripts) can be found in Assets/Scripts
 
-## Downloaded Playable Builds
-Windows: builds/Windows/Gravity.exe
-MacOS: builds/MacOS.app/Contents/MacOS/Gravity
+## Download Playable Builds
+Google Drive link: https://drive.google.com/drive/u/1/folders/1cM6zBK7lvDe35DbHpKf4963dwBWBIJ4S
+- Windows: builds/Windows/Gravity.exe
+- MacOS: builds/MacOS.app/Contents/MacOS/Gravity
 
 ## Credits
 Credits can be found in Assets/credits.txt
