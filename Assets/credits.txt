@@ -1,0 +1,24 @@
+space skybox: https://assetstore.unity.com/packages/2d/textures-materials/dynamic-space-background-lite-104606
+
+tiles, crystals, portal, background: https://assetstore.unity.com/packages/2d/characters/free-pixel-space-platform-pack-146318
+
+character: https://assetstore.unity.com/packages/2d/characters/spaceman-180967
+
+dark singularity: https://assetstore.unity.com/packages/tools/particles-effects/dark-singularity-156548
+
+rocks: https://assetstore.unity.com/packages/3d/environments/sci-fi/low-poly-space-rocks-58385
+
+Progress Bar: https://github.com/Brackeys/Health-Bar
+
+laser: https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160
+
+crosshair: https://assetstore.unity.com/packages/2d/gui/icons/crosshairs-plus-139902
+
+corner pieces: https://assetstore.unity.com/packages/2d/textures-materials/brick/stone-and-ice-blocks-by-gamertose-50490
+
+lightning: https://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471
+
+Audio: https://assetstore.unity.com/packages/audio/music/electronic/deep-in-space-88071
+
+
+
